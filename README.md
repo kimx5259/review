@@ -9,3 +9,6 @@ ORM: Mybatis
 Server: Tomcat  
 BuildTool: maven  
 형상관리툴: Git/Github 
+
+###후기 프로젝트
+사용자가 맛집, 운동 등 자유로운 주제로 후기를 남길 수 있는 프로젝트를 기회하였습니다
