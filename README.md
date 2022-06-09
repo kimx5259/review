@@ -1,6 +1,6 @@
 # review
 
-### [프로젝트 구현 영상] https://www.youtube.com/watch?v=uyopEbjFDm0
+### [프로젝트 구현 영상](https://www.youtube.com/watch?v=uyopEbjFDm0, "프로젝트 구현 영상")
 
 ### 리뷰(후기) 프로젝트를 위해 사용한 개발환경
 프로그래밍 언어: JAVA, JSP, Servlet  
